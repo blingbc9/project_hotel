@@ -50,16 +50,16 @@
 
 |  이름  |                          깃허브 주소                           |       포지션       |
 | :----: | :------------------------------------------------------------: | :----------------: |
-| 김빛찬 |      [https://github.com/sumye](https://github.com/sumye)      |    백엔드(마이페이지-호스트 게스트)   |
-| 김지수 | [https://github.com/ohyeryung](https://github.com/ohyeryung)   |    백엔드(게시판, 공지사항)   |
-| 김형욱 |   [https://github.com/blingbc9](https://github.com/blingbc9)   |    백엔드(예약 관리)   |
-| 이원표 |  [https://github.com/umsounghun](https://github.com/umsounghun)|    백엔드(메인페이지, 관리자)   |
-| 정인아 |  [https://github.com/kiwonbyun](https://github.com/kiwonbyun)  |  프론트엔드(회원 관리) |
+| 김빛찬 |      [https://github.com/blingbc9](https://github.com/blingbc9)      |    백엔드(마이페이지-호스트 게스트)   |
+| 김지수 | []()   |    백엔드(게시판, 공지사항)   |
+| 김형욱 |   []()   |    백엔드(예약 관리)   |
+| 이원표 |  []()|    백엔드(메인페이지, 관리자)   |
+| 정인아 |  []()  |  벡엔드(회원 관리) |
 
 
-**BacK End** : https://github.com/ohyeryung/mini22.git
+**BacK End** : 
 
-**Front End** : https://github.com/bkw9603/hanghae99-gaemoim-FE
+
 
 
 <br>
