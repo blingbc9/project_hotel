@@ -1,5 +1,8 @@
 # 😉JAVA SPRING PROJECT (Back-End)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fblingbc9%2Fproject_hotel&count_bg=%23373EAA&title_bg=%23555555&icon=&icon_color=%23B24646&title=%EB%91%98%EC%9D%B4%EB%86%80%EC%9E%90&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
 ## 호텔예약 서비스 "둘이놀자" 
 
 당신의 여행이 조금더 여유로워지는 순간,
