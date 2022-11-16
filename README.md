@@ -23,7 +23,7 @@
 
 #### ERD설계 👉 [ERD CLOUD](https://www.erdcloud.com/d/LhkTjyJtfFZiBqCyS)  (LINK)
 
-#### WIREFRAME 👉 [PIGMA](https://www.figma.com/file/jQ2dRDz6SEE60P1f719b1V/%5B%EB%91%98%EC%9D%B4%EB%86%80%EA%B9%8C%5D?node-id=0%3A1) (LINK)
+#### WIREFRAME 👉 [FIGMA](https://www.figma.com/file/jQ2dRDz6SEE60P1f719b1V/%5B%EB%91%98%EC%9D%B4%EB%86%80%EA%B9%8C%5D?node-id=0%3A1) (LINK)
 
 <br>
 
